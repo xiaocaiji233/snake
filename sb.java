@@ -1,17 +1,11 @@
 
 	
-import java.util.Scanner;
+
 public class sb {
 
 	public static void main(String[] args) {
-int age;
-double weight;
-Scanner scanner=new Scanner(System.in);
-
-System.out.print("请问你的年龄");
-age=scanner.nextInt();
-System.out.print("请问你的体重");
-weight=scanner.nextDouble();
+int age=12;
+double weight=34;
 
 
 
