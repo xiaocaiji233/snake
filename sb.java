@@ -1,4 +1,3 @@
-package ÊäÈë;
 
 import java.util.Scanner;
 public class sb {
@@ -8,14 +7,14 @@ int age;
 double weight;
 Scanner scanner=new Scanner(System.in);
 
-System.out.print("ÇëÎÊÄãµÄÄêÁä");
+System.out.print("è¯·é—®ä½ çš„å¹´é¾„");
 age=scanner.nextInt();
-System.out.print("ÇëÎÊÄãµÄÌåÖØ");
+System.out.print("è¯·é—®ä½ çš„ä½“é‡");
 weight=scanner.nextDouble();
 
 
 
-System.out.println("ÄãµÄÄêÁäÊÇ"+age+"Ëê£¬ÄãµÄÌåÖØÊÇ"+weight+"¹«½ï");
+System.out.println("ä½ çš„å¹´é¾„æ˜¯"+age+"å²ï¼Œä½ çš„ä½“é‡æ˜¯"+weight+"å…¬æ–¤");
 	}
 
 }
