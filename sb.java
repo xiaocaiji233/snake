@@ -1,4 +1,6 @@
-
+language :java
+script: true
+	
 import java.util.Scanner;
 public class sb {
 
