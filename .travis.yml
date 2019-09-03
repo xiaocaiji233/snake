@@ -1,2 +1,2 @@
 language: java
-script: javac java.sb&&java.sb
+script: javac sb.java&&java sb
