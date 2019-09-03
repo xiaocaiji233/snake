@@ -1,3 +1,1 @@
 language: java
-install: cd wxapi && mvn install -DskipTests=true -Dmaven.javadoc.skip=true -Dgpg.skip=true
-script: mvn test
